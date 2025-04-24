@@ -2,8 +2,10 @@
  **🎯Creación de cuenta en Azure for Students y Cuenta GitHub**
 
 ## ¿Qué es Azure?  🛡️
-
 Microsoft Azure es una plataforma de servicios en la nube que permite crear, probar, implementar y administrar aplicaciones y servicios a través de sus centros de datos. Ofrece recursos gratuitos a estudiantes mediante su programa "Azure for Students".
+
+## ¿ Qué es GitHub? 🐙
+GitHub es una plataforma basada en la nube donde los desarrolladores pueden alojar, compartir y colaborar en proyectos de código fuente utilizando el sistema de control de versiones Git.
 
 ##  🔹Pasos para obtener Azure for Students 
 
