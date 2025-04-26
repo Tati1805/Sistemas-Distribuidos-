@@ -47,7 +47,6 @@ Tras realizar esta  las imágenes se interpretaron correctamente cuando la aplic
 
 Para mejorar la seguridad y cumplir con los requisitos del caso de estudio, agregué un archivo `web.config` en la raíz del proyecto con los siguientes encabezados HTTP:
 
-- Content-Security-Policy
 - Strict-Transport-Security
 - X-Frame-Options
 - X-Content-Type-Options
